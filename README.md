@@ -1,1 +1,1 @@
-# Repository Perkuliahan Pemrograman Beriorientasi Obejek Universitas Teknologi Yogyakarta
+# Repository Perkuliahan Pemrograman Beriorientasi Objek Universitas Teknologi Yogyakarta
