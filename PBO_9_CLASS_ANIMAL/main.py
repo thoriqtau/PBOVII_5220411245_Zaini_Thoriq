@@ -64,16 +64,16 @@ class Ayam(Aves):
     self.getBisaDiadu()  
 
 # Objek Mamalia
-objek_mamalia1 = Mamalia('Kucing', 'Jinak', 'Kecil', 4, True, True)
+objek_mamalia1 = Mamalia('Kucing', 'Jinak', 'Kecil', 4, True, 'Felidae')
 
 # Objek Aves
-objek_aves1 = Aves('Jalak', 'Jinak', 'Kecil', 2, True, True)
+objek_aves1 = Aves('Jalak', 'Jinak', 'Kecil', 2, True, 'Sturnidae')
 
 # Objek Merpati
-objek_merpati1 = Merpati('Merpati', 'Jinak', 'Kecil', 2, True, True)
+objek_merpati1 = Merpati('Merpati', 'Jinak', 'Kecil', 2, True, 'Columbiade')
 
 # Objek Ayam
-objek_ayam1 = Ayam('Ayam Jago', 'Jinak', 'Kecil', 2, True, True)
+objek_ayam1 = Ayam('Ayam Cemani', 'Jinak', 'Kecil', 2, 'Phasianidae', True)
 
 if __name__ == '__main__':
   objek_mamalia1.getInfo()
