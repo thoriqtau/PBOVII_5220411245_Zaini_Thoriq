@@ -32,3 +32,7 @@ Mengenai tugas akhir dari mata kuliah PBO dengan tema fashion
 ## Class Celana
 ### Menambahkan atribut baru
 - jenis_celana type string
+
+## Class Order
+### Menambahkan atribut baru
+- items type list
