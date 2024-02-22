@@ -6,6 +6,7 @@ Program dapat melakukan pembelian, update stok, dan invoice
   ```
   git clone https://github.com/thoriqtau/PBOVII_5220411245_Zaini_Thoriq.git
   ```
+## Step 2: Install Requirements
 - Install requirements.txt
   ```
   pip install -r requirements.txt
